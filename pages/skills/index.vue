@@ -7,11 +7,17 @@
         <h1
           class="mb-2 text-2xl font-medium text-gray-900 sm:text-3xl title-font"
         >
-          Pitchfork Kickstarter Taxidermy
+          Skills
         </h1>
         <p class="w-full text-base leading-relaxed lg:w-1/2">
-          Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
-          gentrify, subway tile poke farm-to-table.
+          Well. here they are, the tools that I currently use to develop for the
+          web. Currently, I am using Fedora Linux 32. With that I am using
+          pretty much all FOSS and I am very down for it. Mainly focusing on
+          front end type things right now but picking up more and more back end
+          things. I always stuck with the idea that a strong foundation is key
+          and I followed that. Starting with HTML, CSS and JavaScript and lately
+          moving to coding TypeScript, learning API, and Vue.js/nuxt.js
+          frameworks. I dabble in React and Svelte slightly.
         </p>
       </div>
       <div class="flex flex-wrap -m-4">
@@ -20,24 +26,15 @@
             <div
               class="inline-flex items-center justify-center w-10 h-10 mb-4 text-indigo-500 bg-indigo-100 rounded-full"
             >
-              <svg
-                fill="none"
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                class="w-6 h-6"
-                viewBox="0 0 24 24"
-              >
-                <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
-              </svg>
+              <img src="~assets/images/Fedora_logo.svg" alt="" />
             </div>
             <h2 class="mb-2 text-lg font-medium text-gray-900 title-font">
-              Shooting Stars
+              Fedora Linux 32
             </h2>
             <p class="text-base leading-relaxed">
-              Fingerstache flexitarian street art 8-bit waist co, subway tile
-              poke farm.
+              Really liking this distro for a good while now. I never really got
+              into Ubuntu much but I do also use Kali Linux and Debian for other
+              applications.
             </p>
           </div>
         </div>
@@ -46,28 +43,16 @@
             <div
               class="inline-flex items-center justify-center w-10 h-10 mb-4 text-indigo-500 bg-indigo-100 rounded-full"
             >
-              <svg
-                fill="none"
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                class="w-6 h-6"
-                viewBox="0 0 24 24"
-              >
-                <circle cx="6" cy="6" r="3"></circle>
-                <circle cx="6" cy="18" r="3"></circle>
-                <path
-                  d="M20 4L8.12 15.88M14.47 14.48L20 20M8.12 8.12L12 12"
-                ></path>
-              </svg>
+              <img src="~assets/images/nuxt.svg" alt="" />
             </div>
             <h2 class="mb-2 text-lg font-medium text-gray-900 title-font">
-              The Catalyzer
+              Vue.js/nuxt.js
             </h2>
             <p class="text-base leading-relaxed">
-              Fingerstache flexitarian street art 8-bit waist co, subway tile
-              poke farm.
+              Very powerful framework here. Really decided to venture into
+              Vue.js because of the fact it is the most independent big JS
+              framework. After getting to know how it works I really like it.
+              Worlds of possibity here and nuxt adds much more.
             </p>
           </div>
         </div>
@@ -76,25 +61,16 @@
             <div
               class="inline-flex items-center justify-center w-10 h-10 mb-4 text-indigo-500 bg-indigo-100 rounded-full"
             >
-              <svg
-                fill="none"
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                class="w-6 h-6"
-                viewBox="0 0 24 24"
-              >
-                <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
-                <circle cx="12" cy="7" r="4"></circle>
-              </svg>
+              <img src="~assets/images/tailwind_logo.svg" alt="" />
             </div>
             <h2 class="mb-2 text-lg font-medium text-gray-900 title-font">
-              Neptune
+              Tailwind CSS
             </h2>
             <p class="text-base leading-relaxed">
-              Fingerstache flexitarian street art 8-bit waist co, subway tile
-              poke farm.
+              Another very plesent experience. Tailwind CSS makes writing CSS
+              quick for me and I like how it is easy for me to layout pages.
+              Many flexable options out of the box and the ability to change
+              anything up as you please is great.
             </p>
           </div>
         </div>
@@ -103,26 +79,18 @@
             <div
               class="inline-flex items-center justify-center w-10 h-10 mb-4 text-indigo-500 bg-indigo-100 rounded-full"
             >
-              <svg
-                fill="none"
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                class="w-6 h-6"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1zM4 22v-7"
-                ></path>
-              </svg>
+              <img src="~assets/images/vscode_logo.png" alt="" />
             </div>
             <h2 class="mb-2 text-lg font-medium text-gray-900 title-font">
-              Melanchole
+              VS Code
             </h2>
+            <span class="text-sm"> logo by Václav Vančura</span>
             <p class="text-base leading-relaxed">
-              Fingerstache flexitarian street art 8-bit waist co, subway tile
-              poke farm.
+              I was weary about getting started with this IDE but I should not
+              have been so close minded. Just because it is a Microsoft product
+              doesn't mean that very talented people didn't make it. Plenty of
+              extensions available and plenty of documentation provides a lot of
+              support.
             </p>
           </div>
         </div>
@@ -131,24 +99,16 @@
             <div
               class="inline-flex items-center justify-center w-10 h-10 mb-4 text-indigo-500 bg-indigo-100 rounded-full"
             >
-              <svg
-                fill="none"
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                class="w-6 h-6"
-                viewBox="0 0 24 24"
-              >
-                <path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"></path>
-              </svg>
+              <img src="~assets/images/api_logo.jpg" alt="" />
             </div>
             <h2 class="mb-2 text-lg font-medium text-gray-900 title-font">
-              Bunker
+              Rest API
             </h2>
             <p class="text-base leading-relaxed">
-              Fingerstache flexitarian street art 8-bit waist co, subway tile
-              poke farm.
+              One of the new areas I am learning about. I really like the
+              concept and structure of using APIs and JAMstack is quite
+              interesting. Very quick proformance wise and easy way to work that
+              simplifies a lot and lets me focus on content and design.
             </p>
           </div>
         </div>
@@ -157,24 +117,13 @@
             <div
               class="inline-flex items-center justify-center w-10 h-10 mb-4 text-indigo-500 bg-indigo-100 rounded-full"
             >
-              <svg
-                fill="none"
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                class="w-6 h-6"
-                viewBox="0 0 24 24"
-              >
-                <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
-              </svg>
+              <img src="~assets/images/nodejs_logo.png" alt="" />
             </div>
             <h2 class="mb-2 text-lg font-medium text-gray-900 title-font">
-              Ramona Falls
+              node.js
             </h2>
             <p class="text-base leading-relaxed">
-              Fingerstache flexitarian street art 8-bit waist co, subway tile
-              poke farm.
+              Node.js
             </p>
           </div>
         </div>

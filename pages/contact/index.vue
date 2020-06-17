@@ -24,8 +24,7 @@
               ADDRESS
             </h2>
             <p class="leading-relaxed">
-              Photo booth tattooed prism, portland taiyaki hoodie neutra
-              typewriter
+              PO Box 327 Ventura Ca 93002
             </p>
           </div>
           <div class="px-6 mt-4 lg:w-1/2 lg:mt-0">
@@ -34,13 +33,13 @@
             >
               EMAIL
             </h2>
-            <a class="leading-relaxed text-indigo-500">example@email.com</a>
+            <a class="leading-relaxed text-indigo-500">ed@niceweb.page</a>
             <h2
               class="mt-4 text-sm font-medium tracking-widest text-gray-900 title-font"
             >
               PHONE
             </h2>
-            <p class="leading-relaxed">123-456-7890</p>
+            <p class="leading-relaxed">805-861-6375</p>
           </div>
         </div>
       </div>
@@ -51,27 +50,45 @@
           Feedback
         </h2>
         <p class="mb-5 leading-relaxed text-gray-600">
-          Post-ironic portland shabby chic echo park, banjo fashion axe
+          Get ahold of me using this form below and I will get right back with
+          you.
         </p>
-        <input
-          class="px-4 py-2 mb-4 text-base bg-white border border-gray-400 rounded focus:outline-none focus:border-indigo-500"
-          placeholder="Name"
-          type="text"
-        />
-        <input
-          class="px-4 py-2 mb-4 text-base bg-white border border-gray-400 rounded focus:outline-none focus:border-indigo-500"
-          placeholder="Email"
-          type="email"
-        />
-        <textarea
-          class="h-32 px-4 py-2 mb-4 text-base bg-white border border-gray-400 rounded resize-none focus:outline-none focus:border-indigo-500"
-          placeholder="Message"
-        ></textarea>
-        <button
-          class="px-6 py-2 text-lg text-white bg-indigo-500 border-0 rounded focus:outline-none hover:bg-indigo-600"
+        <form
+          name="contact"
+          action="/thank-you"
+          netlify-honeypot="bot-field"
+          method="post"
+          netlify
         >
-          Button
-        </button>
+          <input type="hidden" name="form-name" value="contact" />
+          <p class="hidden">
+            <label>Don’t fill this out: <input name="bot-field"/></label>
+            <input type="hidden" name="form-name" value="contact" />
+          </p>
+
+          <p class="hidden">
+            <label>Don’t fill this out: <input name="bot-field"/></label>
+          </p>
+          <input
+            class="px-4 py-2 mb-4 text-base bg-white border border-gray-400 rounded focus:outline-none focus:border-indigo-500"
+            placeholder="Name"
+            type="text"
+          />
+          <input
+            class="px-4 py-2 mb-4 text-base bg-white border border-gray-400 rounded focus:outline-none focus:border-indigo-500"
+            placeholder="Email"
+            type="email"
+          />
+          <textarea
+            class="h-32 px-4 py-2 mb-4 text-base bg-white border border-gray-400 rounded resize-none focus:outline-none focus:border-indigo-500"
+            placeholder="Message"
+          ></textarea>
+          <button
+            class="px-6 py-2 text-lg text-white bg-indigo-500 border-0 rounded focus:outline-none hover:bg-indigo-600"
+          >
+            Button
+          </button>
+        </form>
         <p class="mt-3 text-xs text-gray-500">
           Chicharrones blog helvetica normcore iceland tousled brook viral
           artisan.
@@ -80,3 +97,8 @@
     </div>
   </section>
 </template>
+<style scoped>
+.hidden {
+  display: none;
+}
+</style>
