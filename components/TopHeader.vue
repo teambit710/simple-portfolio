@@ -13,8 +13,8 @@
       <nav
         class="flex flex-wrap items-center justify-center text-base md:ml-auto"
       >
-        <nuxt-link to="/skills/" class="mr-5 hover:text-gray-900"
-          >Home</nuxt-link
+        <nuxt-link to="/ideas/" class="mr-5 hover:text-gray-900"
+          >Ideas</nuxt-link
         >
         <nuxt-link to="/skills/" class="mr-5 hover:text-gray-900"
           >Skills</nuxt-link
