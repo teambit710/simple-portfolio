@@ -11,13 +11,7 @@
         </h1>
         <p class="w-full text-base leading-relaxed lg:w-1/2">
           Well. here they are, the tools that I currently use to develop for the
-          web. Currently, I am using Fedora Linux 32. With that I am using
-          pretty much all FOSS and I am very down for it. Mainly focusing on
-          front end type things right now but picking up more and more back end
-          things. I always stuck with the idea that a strong foundation is key
-          and I followed that. Starting with HTML, CSS and JavaScript and lately
-          moving to coding TypeScript, learning API, and Vue.js/nuxt.js
-          frameworks. I dabble in React and Svelte slightly.
+          web.
         </p>
       </div>
       <div class="flex flex-wrap -m-4">
@@ -32,9 +26,8 @@
               Fedora Linux 32
             </h2>
             <p class="text-base leading-relaxed">
-              Really liking this distro for a good while now. I never really got
-              into Ubuntu much but I do also use Kali Linux and Debian for other
-              applications.
+              I never looked back once I first started using Linux. Pretty much
+              everything I use now is FOSS.
             </p>
           </div>
         </div>
@@ -49,10 +42,8 @@
               Vue.js/nuxt.js
             </h2>
             <p class="text-base leading-relaxed">
-              Very powerful framework here. Really decided to venture into
-              Vue.js because of the fact it is the most independent big JS
-              framework. After getting to know how it works I really like it.
-              Worlds of possibity here and nuxt adds much more.
+              JavaScript framework. Nuxt is a framework on Vue.js to further
+              expand its functionality and adds even more features.
             </p>
           </div>
         </div>
@@ -67,10 +58,7 @@
               Tailwind CSS
             </h2>
             <p class="text-base leading-relaxed">
-              Another very plesent experience. Tailwind CSS makes writing CSS
-              quick for me and I like how it is easy for me to layout pages.
-              Many flexable options out of the box and the ability to change
-              anything up as you please is great.
+              Utility First workflow design for styling your CSS.
             </p>
           </div>
         </div>
@@ -86,11 +74,7 @@
             </h2>
             <span class="text-sm"> logo by Václav Vančura</span>
             <p class="text-base leading-relaxed">
-              I was weary about getting started with this IDE but I should not
-              have been so close minded. Just because it is a Microsoft product
-              doesn't mean that very talented people didn't make it. Plenty of
-              extensions available and plenty of documentation provides a lot of
-              support.
+              IDE and editor for all files needed to create a project.
             </p>
           </div>
         </div>
@@ -105,10 +89,8 @@
               Rest API
             </h2>
             <p class="text-base leading-relaxed">
-              One of the new areas I am learning about. I really like the
-              concept and structure of using APIs and JAMstack is quite
-              interesting. Very quick proformance wise and easy way to work that
-              simplifies a lot and lets me focus on content and design.
+              One of the new areas I am learning about. Really linking JAMstack
+              app development.
             </p>
           </div>
         </div>
