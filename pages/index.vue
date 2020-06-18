@@ -8,7 +8,7 @@
           <img
             class="object-cover object-center rounded"
             alt="hero"
-            src="@/assets/images/avataaar.svg"
+            src="~assets/images/avataaars.svg"
           />
         </div>
         <div
